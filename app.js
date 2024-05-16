@@ -1,11 +1,4 @@
-/* 
-App name: MagnificStore 
-Version: V.1.0.0
-release year: 2023
-Author: Carmen Bravo. 
-Alias: SoftwareDevOne
-email: nbravoalcala@gmail.com
-*/
+
 const search = (event) => {
 
     const searchValue = event.target.value.toUpperCase()
